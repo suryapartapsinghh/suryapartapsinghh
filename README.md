@@ -21,18 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
 
----
-
-### 🛠 Things I've Built
-
-- 👾 **[Commit Blaster](https://github.com/surya6032/commit-blaster)**: turns your GitHub contribution graph into an animated retro space shooter.
-- ♟️ **[Chess Replay Card](https://github.com/surya6032/chess-replay-card)**: replays your latest Lichess or Chess.com game as an animated pixel-art board.
-
-Both are free GitHub Actions you can add to your own profile in a few minutes. You can see them running live below.
-
----
-
-### 🎮 Live on My Profile
 
 #### 👾 My Contributions Under Attack
 
