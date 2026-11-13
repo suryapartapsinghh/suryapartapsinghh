@@ -30,6 +30,16 @@
 
 ### 📍 Productivity Stats
 
+#### 👾 My Contributions Under Attack
+<p align="center">
+  <a href="https://github.com/surya6032/commit-blaster">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surya6032/surya6032/output/commit-blaster-dark.svg">
+      <img src="https://raw.githubusercontent.com/surya6032/surya6032/output/commit-blaster.svg" alt="Commit Blaster: a ship shooting down my contribution graph">
+    </picture>
+  </a>
+</p>
+
 #### 🛠 Profile Summary
 <p align="center">
   <a href="https://github.com/surya6032">
