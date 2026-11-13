@@ -1,1 +1,29 @@
-- uses: Surya6032/commit-blaster@v1
+name: commit-blaster
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Surya6032/commit-blaster@v1
+        with:
+          username: Surya6032
+
+      - name: Publish SVGs to the output branch
+        run: |
+          cd dist
+          git init -q
+          git checkout -q -b output
+          git add .
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Update commit-blaster animation"
+          git push -q --force \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
