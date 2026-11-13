@@ -39,11 +39,16 @@
     </picture>
   </a>
 </p>
-#### 👾 My Last Chess Game
+#### 👾 MyLast Chess Game
+<p align="center">
+  <a href="https://github.com/surya6032/chess-replay-card">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_NAME/YOUR_GITHUB_NAME/chess-output/chess-replay-dark.svg">
   <img alt="My latest chess game" src="https://raw.githubusercontent.com/YOUR_GITHUB_NAME/YOUR_GITHUB_NAME/chess-output/chess-replay.svg">
 </picture>
+</a>
+</p>
+
 #### 🛠 Profile Summary
 <p align="center">
   <a href="https://github.com/surya6032">
