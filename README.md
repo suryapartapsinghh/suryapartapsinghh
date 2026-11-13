@@ -39,7 +39,11 @@
     </picture>
   </a>
 </p>
-
+#### 👾 My Last Chess Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_NAME/YOUR_GITHUB_NAME/chess-output/chess-replay-dark.svg">
+  <img alt="My latest chess game" src="https://raw.githubusercontent.com/YOUR_GITHUB_NAME/YOUR_GITHUB_NAME/chess-output/chess-replay.svg">
+</picture>
 #### 🛠 Profile Summary
 <p align="center">
   <a href="https://github.com/surya6032">
