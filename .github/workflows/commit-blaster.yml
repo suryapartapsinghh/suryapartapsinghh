@@ -12,9 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Surya6032/commit-blaster@v1.0.0
+      - uses: suryapartapsinghh/commit-blaster@v1.0.0
         with:
-          username: Surya6032
+          username: suryapartapsinghh
 
       - name: Publish SVGs to the output branch
         run: |
