@@ -25,10 +25,10 @@
 #### 👾 My Contributions Under Attack
 
 <p align="center">
-  <a href="https://github.com/surya6032/commit-blaster">
+  <a href="https://github.com/suryapartapsinghh/commit-blaster">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surya6032/surya6032/output/commit-blaster-dark.svg">
-      <img alt="Commit Blaster: a ship shooting down my contribution graph" src="https://raw.githubusercontent.com/surya6032/surya6032/output/commit-blaster.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryapartapsinghh/suryapartapsinghh/output/commit-blaster-dark.svg">
+      <img alt="Commit Blaster: a ship shooting down my contribution graph" src="https://raw.githubusercontent.com/suryapartapsinghh/suryapartapsinghh/output/commit-blaster.svg">
     </picture>
   </a>
 </p>
@@ -36,10 +36,10 @@
 #### ♟️ My Latest Chess Game
 
 <p align="center">
-  <a href="https://github.com/surya6032/chess-replay-card">
+  <a href="https://github.com/suryapartapsinghh/chess-replay-card">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surya6032/surya6032/chess-output/chess-replay-dark.svg">
-      <img alt="Animated replay of my latest chess game" src="https://raw.githubusercontent.com/surya6032/surya6032/chess-output/chess-replay.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryapartapsinghh/suryapartapsinghh/chess-output/chess-replay-dark.svg">
+      <img alt="Animated replay of my latest chess game" src="https://raw.githubusercontent.com/suryapartapsinghh/suryapartapsinghh/chess-output/chess-replay.svg">
     </picture>
   </a>
 </p>
