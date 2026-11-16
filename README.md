@@ -1,8 +1,8 @@
 ## Hi there, I'm Surya! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35">
 
-![GitHub followers](https://img.shields.io/github/followers/surya6032?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/surya6032?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=surya6032&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/suryapartapsinghh?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/suryapartapsinghh?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=suryapartapsinghh&style=flat-square)
 
 ---
 
